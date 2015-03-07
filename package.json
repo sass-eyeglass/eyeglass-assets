@@ -1,0 +1,23 @@
+{
+  "name": "eyeglass-assets",
+  "version": "0.0.1",
+  "description": "Asset urls for your application, eyeglass modules, and beyond.",
+  "license": "Apache 2.0",
+  "repository": "sass-eyeglass/eyeglass-assets",
+  "author": {
+    "name": "Chris Eppstein",
+    "email": "chris@eppsteins.net",
+    "url": "https://github.com/chriseppstein"
+  },
+  "files": [
+    "sass"
+  ],
+  "keywords": ["eyeglass-module", "sass"],
+  "main": "eyeglass-exports.js",
+  "eyeglass": {
+    "name": "assets"
+  },
+  "peerDependencies": {
+    "sass-eyeglass": "*"
+  }
+}
